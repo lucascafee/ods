@@ -130,6 +130,7 @@ nav a:hover{
     text-align: center;
    justify-content: center;
    letter-spacing: 60px;
+
     
 }
 
@@ -148,7 +149,7 @@ h5{
 }
 
 .b1{
-    justify-content: space-between;
+  justify-content: center;
     display: flex;
     margin-top: 40px;
     padding: 20px;
@@ -163,3 +164,4 @@ h5{
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      margin-top: 50px;
 }
+
